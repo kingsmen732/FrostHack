@@ -1,5 +1,5 @@
 import streamlit as st
-from python-dotenv import load_dotenv
+from python_dotenv import load_dotenv
 import pickle
 from PyPDF2 import PdfReader
 from streamlit_extras.add_vertical_space import add_vertical_space
